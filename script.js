@@ -74,3 +74,40 @@ function run9(){
         document.getElementById("image9").src = "http://files.tested.com/photos/2013/10/24/55-54660-jared-1382633827.jpg"
     }
 }
+
+function prompt1(){
+    var bio1 = prompt("please enter a new description for the image");
+    document.getElementById("bio1").innerHTML = bio1;
+}
+function prompt2(){
+    var bio2 = prompt("please enter a new description for the image");
+    document.getElementById("bio2").innerHTML = bio2;
+}
+function prompt3(){
+    var bio3 = prompt("please enter a new description for the image");
+    document.getElementById("bio3").innerHTML = bio3;
+}
+function prompt4(){
+    var bio4 = prompt("please enter a new description for the image");
+    document.getElementById("bio4").innerHTML = bio4;
+}
+function prompt5(){
+    var bio5 = prompt("please enter a new description for the image");
+    document.getElementById("bio5").innerHTML = bio5;
+}
+function prompt6(){
+    var bio6 = prompt("please enter a new description for the image");
+    document.getElementById("bio6").innerHTML = bio6;
+}
+function prompt7(){
+    var bio7 = prompt("please enter a new description for the image");
+    document.getElementById("bio7").innerHTML = bio7;
+}
+function prompt8(){
+    var bio8 = prompt("please enter a new description for the image");
+    document.getElementById("bio8").innerHTML = bio8;
+}
+function prompt9(){
+    var bio9 = prompt("please enter a new description for the image");
+    document.getElementById("bio9").innerHTML = bio9;
+}
